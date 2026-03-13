@@ -4,4 +4,3 @@ class User(BaseModel):
     full_name: str
     email: str
     hashed_password: str
-
